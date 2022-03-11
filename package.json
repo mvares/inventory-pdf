@@ -1,0 +1,22 @@
+{
+  "name": "inventory-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "sucrase-node src/index.ts"
+  },
+  "author": "Miguel Oliveira <migueloliveiradev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/multer": "^1.4.7",
+    "@types/node": "^17.0.21",
+    "@types/pdfmake": "^0.1.20",
+    "sucrase": "^3.20.3"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "pdfmake": "^0.2.4"
+  }
+}
