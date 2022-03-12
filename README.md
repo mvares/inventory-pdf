@@ -3,6 +3,9 @@
 This project minimizes the logistical difficulty in the stock of a store. 
 Simple report via a PDF.
 
+![Inventory](/.github/inventory.png)
+![PDF](/.github/report.png.png)
+
 ## Dependencies 
 These tools are needed to start the project:
 - NodeJS
